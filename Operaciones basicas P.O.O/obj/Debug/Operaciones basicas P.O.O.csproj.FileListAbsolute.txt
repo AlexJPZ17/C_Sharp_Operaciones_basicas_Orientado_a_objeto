@@ -1,0 +1,9 @@
+D:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Console\Operaciones basicas P.O.O\Operaciones basicas P.O.O\bin\Debug\Operaciones basicas P.O.O.exe.config
+D:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Console\Operaciones basicas P.O.O\Operaciones basicas P.O.O\bin\Debug\Operaciones basicas P.O.O.exe
+D:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Console\Operaciones basicas P.O.O\Operaciones basicas P.O.O\bin\Debug\Operaciones basicas P.O.O.pdb
+D:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Console\Operaciones basicas P.O.O\Operaciones basicas P.O.O\obj\Debug\Operaciones basicas P.O.O.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Console\Operaciones basicas P.O.O\Operaciones basicas P.O.O\obj\Debug\Operaciones basicas P.O.O.exe
+D:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Console\Operaciones basicas P.O.O\Operaciones basicas P.O.O\obj\Debug\Operaciones basicas P.O.O.pdb
+D:\Mis Documentos\Projects Visual Studio 2013\Visual C#\Claces\Console\Operaciones basicas P.O.O\Operaciones basicas P.O.O\bin\Debug\Operaciones basicas P.O.O.exe.config
+D:\Mis Documentos\Projects Visual Studio 2013\Visual C#\Claces\Console\Operaciones basicas P.O.O\Operaciones basicas P.O.O\obj\Debug\Operaciones basicas P.O.O.exe
+D:\Mis Documentos\Projects Visual Studio 2013\Visual C#\Claces\Console\Operaciones basicas P.O.O\Operaciones basicas P.O.O\obj\Debug\Operaciones basicas P.O.O.pdb
